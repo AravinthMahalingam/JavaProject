@@ -10,12 +10,18 @@ public class SampleJava {
 		
 		int c = a+b;
 		
-		Long l = 100000001l;
 		
-		System.out.println(l);
+		String s = "Java";
+		
+		System.out.println(s);
+
 		
 		System.out.println(c);
 		
+        Long l = 100000001l;
+		
+		System.out.println(l);
+
 		
 	}
 
