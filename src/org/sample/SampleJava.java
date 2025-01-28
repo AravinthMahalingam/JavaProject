@@ -10,6 +10,10 @@ public class SampleJava {
 		
 		int c = a+b;
 		
+		Long l = 100000001l;
+		
+		System.out.println(l);
+		
 		System.out.println(c);
 		
 		
