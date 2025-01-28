@@ -10,6 +10,10 @@ public class SampleJava {
 		
 		int c = a+b;
 		
+		String s = "Java";
+		
+		System.out.println(s);
+		
 		System.out.println(c);
 		
 		
